@@ -1,0 +1,1 @@
+<h1 class="amphtml-title"><?php echo wp_kses_data( $this->title ); ?></h1>

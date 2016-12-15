@@ -1,0 +1,3049 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TheLeader\n"
+"POT-Creation-Date: 2013-10-25 16:10+0200\n"
+"PO-Revision-Date: 2015-04-20 22:11+0200\n"
+"Last-Translator: Миржан <mirzhan.ibragimov@gmail.ru>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_x\n"
+"X-Poedit-Basepath: .\n"
+"Language: ru_RU\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPath-1: .\n"
+"X-Poedit-SearchPath-2: ..\n"
+
+msgid " (taxes estimated for %s)"
+msgstr " (налоги установлены для %s)"
+
+msgid "% Comments"
+msgstr "% комментариев"
+
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s установлен и активирован успешно."
+
+msgid "%1$s installed successfully."
+msgstr "%1$s установлен успешно."
+
+msgid "%s"
+msgstr "%s"
+
+msgid "%s download remaining"
+msgstr "%s загрузки осталось"
+
+msgid "%s for %s item"
+msgstr "%s для %s вещи"
+
+msgid "%s review for %s"
+msgstr "%s отзывов для %s"
+
+msgid "&larr; Older Comments"
+msgstr "&larr; Предыдущие комментарии"
+
+msgid "&larr; Older Posts"
+msgstr "&larr; Предыдущие сообщения"
+
+msgid "'Posted by' block"
+msgstr "'Кем размещено' блок"
+
+msgid "(at most 15)"
+msgstr "(не более 15)"
+
+msgid "- Select -"
+msgstr "- Выбрать -"
+
+msgid ""
+"<span class=\"error\">Registration is currently disabled. Please try again "
+"later.<span>"
+msgstr ""
+"<span class=\"error\">Регистрация в настоящее время отключена. Пожалуйста, "
+"повторите попытку позже.<span>"
+
+msgid ""
+"<strong>ID</strong>: A unique lower case alphanumeric string, underscores "
+"allowed."
+msgstr ""
+"<strong>ID</strong>: уникальная строчная алфавитно-цифровая строка "
+"подчеркивания допускается."
+
+msgid ""
+"<strong>Label</strong>: Displayed as the label of a form element on the Theme "
+"Options page."
+msgstr ""
+"<strong>Метка</strong>: отображается как название элемента формы в опциях "
+"темы."
+
+msgid ""
+"<strong>Section ID</strong>: A unique lower case alphanumeric string, "
+"underscores allowed."
+msgstr ""
+"<strong>ID раздела</strong>: уникальная строчная алфавитно-цифровая строка "
+"подчеркивания допускается."
+
+msgid ""
+"<strong>Section Title</strong>: Displayed as a menu item on the Theme Options "
+"page."
+msgstr ""
+"<strong>Заголовок раздела</strong>: отображается как пункт меню в опциях "
+"шаблона."
+
+msgid ""
+"<strong>Type</strong>: Choose one of the available option types from the "
+"dropdown."
+msgstr ""
+"<strong>Тип</strong>: выберите одну из доступных опций типов из выпадающего "
+"списка."
+
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr "Доступна новая версия импортера. Обновите версию %s."
+
+msgid "AJAX Search form for Products, Posts, Portfolio and Pages"
+msgstr "Аякс поиск для товаров, постов, портфолио, страниц"
+
+msgid "Access Token Secret:"
+msgstr "Код маркера доступа:"
+
+msgid "Access Token:"
+msgstr "Маркер доступа:"
+
+msgid "Accordion"
+msgstr "Акардион"
+
+msgid "Account menu"
+msgstr "Меню аккаунта"
+
+msgid "Activate"
+msgstr "Активировать"
+
+msgid "Activating a Layout"
+msgstr "Активация макета"
+
+msgid "Add Choice"
+msgstr "Добавить выбор"
+
+msgid "Add Images to Product Gallery"
+msgstr "Добавить фото в галерею товара"
+
+msgid "Add Media"
+msgstr "Добавить медиа"
+
+msgid "Add New"
+msgstr "Добавить новый"
+
+msgid "Add New %s"
+msgstr "Добавить новый %s"
+
+msgid "Add New Brand"
+msgstr "Добавить бренд"
+
+msgid "Add New Category"
+msgstr "Добавить новую категорию"
+
+msgid "Add New Project"
+msgstr "Добавить новый проект"
+
+msgid "Add New Tag"
+msgstr "Добавить новый тег"
+
+msgid "Add Section"
+msgstr "Добавить раздел"
+
+msgid "Add Setting"
+msgstr "Добавить параметр"
+
+msgid "Add XML"
+msgstr "Добавить XML"
+
+msgid "Add a review"
+msgstr "Добавить отзыв"
+
+msgid ""
+"Add any widgets you want in Apperance->Widgets->\"Hidden top panel area\""
+msgstr ""
+"Добавьте любые виджеты , которые вы хотите в Внешний вид->Виджеты->\"Скрытая "
+"верхняя часть панели\""
+
+msgid ""
+"Add any widgets you want in Apperance->Widgets->\"Right side panel area\""
+msgstr ""
+"Добавьте любые виджеты , которые вы хотите в Внешний вид->Виджеты->\"Площадь "
+"правой боковой панели\""
+
+msgid "Add product gallery video"
+msgstr "Добавить галерею видео товара"
+
+msgid "Add to gallery"
+msgstr "Добавить в галерею"
+
+msgid "Add your review"
+msgstr "Добавьте ваш отзыв"
+
+msgid "Add, Activate, & Remove Layouts"
+msgstr "Добавить, активировать и удалить макеты"
+
+msgid "Additional Information"
+msgstr "Дополнительная информация"
+
+msgid "Additional information in widget"
+msgstr "Дополнительная информация к виджету"
+
+msgid "Advanced"
+msgstr "Рекомендуемые"
+
+msgid "Align left"
+msgstr "Выровнять влево"
+
+msgid "Align right"
+msgstr "Выровнять вправо"
+
+msgid "All"
+msgstr "Все"
+
+msgid "All %s"
+msgstr "Все %s"
+
+msgid "All Brands"
+msgstr "Все бренды"
+
+msgid "All Categories"
+msgstr "Все категории"
+
+msgid "All Tags"
+msgstr "Все теги"
+
+msgid "All done."
+msgstr "Все хорошо."
+
+msgid "All installations and activations have been completed."
+msgstr "Установка и активация завершена."
+
+msgid "All installations have been completed."
+msgstr "Установка завершена."
+
+msgid "All is well, your email has been sent."
+msgstr "Все хорошо, на ваш адрес электронной почты было отправлено сообщение."
+
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Установлены все плагины и активировать успешно. %1$s"
+
+msgid "All plugins installed and activated successfully. %s"
+msgstr "Все плагины установлены и активированы успешно. %s"
+
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Ошибка установки %1$s: <strong>%2$s</strong>."
+
+msgid "Anti-spam"
+msgstr "Анти-спам"
+
+msgid "Any Brand"
+msgstr "Выберите бренд"
+
+msgid "Appear from center"
+msgstr "Появиться из центра"
+
+msgid "Apply Coupon"
+msgstr "Применить купон"
+
+msgid "Are you sure you want to activate this layout?"
+msgstr "Вы уверены, что хотите активировать этот макет?"
+
+msgid "Are you sure you want to remove this?"
+msgstr "Вы уверены, что хотите удалить это?"
+
+msgid "Are you sure you want to reset back to the defaults?"
+msgstr "Вы уверены, что хотите вернуться к стандартной версии?"
+
+msgid "Area after cart totals block"
+msgstr "Область после \"итого\" корзины"
+
+msgid "Array Examples"
+msgstr "Примеры массивов"
+
+msgid "Ascending"
+msgstr "Восходящий"
+
+msgid "Assign Authors"
+msgstr "Связать авторов"
+
+msgid "Author"
+msgstr "Автору"
+
+msgid "Auto rotate slides"
+msgstr "Авто поворот слайдов"
+
+msgid "Auto rotate slides each X seconds."
+msgstr "Авто поворот слайдов каждые X секунд."
+
+msgid "Available downloads"
+msgstr "Доступные загрузки"
+
+msgid "Available on backorder"
+msgstr "Доступно по предзаказу"
+
+msgid "Avatar"
+msgstr "Аватар"
+
+msgid "Average"
+msgstr "Нормально"
+
+msgid "Back to top"
+msgstr "Вверх"
+
+msgid "Background"
+msgstr "Задний фон"
+
+msgid "Background Color"
+msgstr "Цвет бэкграунда"
+
+msgid "Background Color [HOVER]"
+msgstr "Цвет бэкграунда при наведении"
+
+msgid "Banner Image"
+msgstr "Картинка баннера"
+
+msgid "Banner size"
+msgstr "Размер баннера"
+
+msgid "Banner style"
+msgstr "Стиль баннера"
+
+msgid "Be the first to review"
+msgstr "Оставьте отзыв о товаре"
+
+msgid "Bestsellings"
+msgstr "Лидеры продаж"
+
+msgid "Billing &amp; Shipping"
+msgstr "Доставка и оплата"
+
+msgid "Billing Address"
+msgstr "Адрес оплаты"
+
+msgid "Black"
+msgstr "Черный"
+
+msgid "Block"
+msgstr "Блок"
+
+msgid "Block Style"
+msgstr "Стиль блока"
+
+msgid "Block name:"
+msgstr "Имя блока:"
+
+msgid "Blog"
+msgstr "Блог"
+
+msgid "Blue"
+msgstr "Синий"
+
+msgid "Border"
+msgstr "Граница"
+
+msgid "Bordered"
+msgstr "С границей"
+
+msgid "Bottom to top"
+msgstr "Снизу вверх"
+
+msgid "Box title"
+msgstr "Заголовок блока"
+
+msgid "Brand"
+msgstr "Бренд"
+
+msgid "Brands"
+msgstr "Бренды"
+
+msgid "Brands Filter"
+msgstr "Фильтр брендов"
+
+msgid "Button link."
+msgstr "Ссылка кнопки."
+
+msgid "Button position"
+msgstr "Позиция кнопки"
+
+msgid "Button size."
+msgstr "Размер кнопки."
+
+msgid "Button type."
+msgstr "Тип кнопки."
+
+msgid "Byline"
+msgstr "По теме"
+
+msgid "CSS"
+msgstr "CSS"
+
+msgid "CSS Animation"
+msgstr "CSS анимация"
+
+msgid "CSS for section"
+msgstr "CSS для раздела"
+
+msgid "Can be used for placing languages switcher of some contacts information."
+msgstr "Может использоваться для размещения переключения языков."
+
+msgid "Cancel"
+msgstr "Отменить"
+
+msgid "Carousel"
+msgstr "Карусель"
+
+msgid "Cart"
+msgstr "Корзина"
+
+msgid "Cart Subtotal"
+msgstr "Промежуточный итог"
+
+msgid "Cart Totals"
+msgstr "Всего"
+
+msgid "Cart totals"
+msgstr "Всего в корзине"
+
+msgid "Categories"
+msgstr "Категории"
+
+msgid "Categories IDs"
+msgstr "ID категорий"
+
+msgid "Category"
+msgstr "Категория"
+
+msgid "Category Checkbox"
+msgstr "Чекбокс категории"
+
+msgid "Category Header"
+msgstr "Заголовок категории"
+
+msgid "Category Select"
+msgstr "Выбор категории"
+
+msgid "Category:"
+msgstr "Категория:"
+
+msgid "Check this out: "
+msgstr "Проверьте это: "
+
+msgid "Checkbox"
+msgstr "Чекбокс"
+
+msgid "Checkout"
+msgstr "Перейти к заказу"
+
+msgid "Checkout Method"
+msgstr "Способ оформления заказа"
+
+msgid "Checkout as Guest"
+msgstr "Перейти к оплате без регистрации"
+
+msgid "Checkout method"
+msgstr "Способ оформления заказа"
+
+msgid "Choices"
+msgstr "Выбор"
+
+msgid "Choose One"
+msgstr "Выберите один"
+
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr "Выберите WXR (.xml) файл для загрузки."
+
+msgid "Choose an image"
+msgstr "Выбрать изображение"
+
+msgid "Choose an option"
+msgstr "Выбрать опцию"
+
+msgid "Clear selection"
+msgstr "Очистить раздел"
+
+msgid "Click edit button to change this text."
+msgstr "Нажмите кнопку \"изменить\", чтобы отредактировать этот текст."
+
+msgid "Click here to enter your code"
+msgstr "Нажмите здесь, чтобы ввести свой код"
+
+msgid "Click here to login"
+msgstr "Нажмите здесь, чтобы войти"
+
+msgid "Click to toggle"
+msgstr "Нажмите, чтобы продолжить"
+
+msgid "Code Examples"
+msgstr "Примеры кода"
+
+msgid "Code examples for front-end development."
+msgstr "Примеры кода для фронтэнд."
+
+msgid "Color"
+msgstr "Цвет"
+
+msgid "Color Scheme"
+msgstr "Схема цветов"
+
+msgid "Colorpicker"
+msgstr "Выбор цвета"
+
+msgid "Columns"
+msgstr "Колонки"
+
+msgid "Columns count"
+msgstr "Количество колонок"
+
+msgid "Comment"
+msgstr "Комментарий"
+
+msgid "Comment count"
+msgstr "Количеству коментариев"
+
+msgid "Comments are closed"
+msgstr "Комментирование закрыто"
+
+msgid "Consumer Key"
+msgstr "Ключ покупателя"
+
+msgid "Consumer Secret"
+msgstr "Секретный код покупателя"
+
+msgid "Contact Form"
+msgstr "Форма обратной связи"
+
+msgid "Content"
+msgstr "Содержание"
+
+msgid "Continue"
+msgstr "Продолжить"
+
+msgid "Continue shopping"
+msgstr "Продолжить покупки"
+
+msgid "Coupon"
+msgstr "Купон"
+
+msgid "Coupon code"
+msgstr "Код купона"
+
+msgid "Coupon:"
+msgstr "Купон:"
+
+msgid "Create Account"
+msgstr "Создать аккаунт"
+
+msgid "Create an Account"
+msgstr "Создать аккаунт"
+
+msgid "Create an account"
+msgstr "Создать аккаунт"
+
+msgid ""
+"Create an account by entering the information below. If you are a returning "
+"customer please login at the top of the page."
+msgstr ""
+"Создать учётную запись, введя следующие данные. Если вы зарегистрированный "
+"клиент пожалуйста , войдите в верхней части страницы."
+
+msgid "Create an account?"
+msgstr "Создать аккаунт?"
+
+msgid "Creating Options"
+msgstr "Создание опций"
+
+msgid "Creating a Layout"
+msgstr "Создание макета"
+
+msgid "Css"
+msgstr "Css"
+
+msgid "Custom Post Type Checkbox"
+msgstr "Выбор типа постов \"чекбокс\""
+
+msgid "Custom Post Type Select"
+msgstr "Выбор типа постов \"выбор\""
+
+msgid "Custom field deleted."
+msgstr "Произвольное поле удалено."
+
+msgid "Custom field updated."
+msgstr "Произвольное поле обновлено."
+
+msgid "Custom link target"
+msgstr "Цель ссылки"
+
+msgid "Custom links"
+msgstr "Ссылки"
+
+msgid "Customer Key:"
+msgstr "Ключ клиента:"
+
+msgid "Customer Secret:"
+msgstr "Секретный код клиента:"
+
+msgid "Dark"
+msgstr "Темный"
+
+msgid "Dashed"
+msgstr "Пунктирная"
+
+msgid "Data Imported."
+msgstr "Данные импортированы."
+
+msgid "Data could not be imported."
+msgstr "Данные не могут быть импортированы."
+
+msgid "Date"
+msgstr "Дата"
+
+msgid "Date Added"
+msgstr "Дата публикации"
+
+msgid "Date:"
+msgstr "Дата:"
+
+msgid "Default"
+msgstr "По умолчанию"
+
+msgid "Default:"
+msgstr "По умолчанию:"
+
+msgid "Delete"
+msgstr "Удалить"
+
+msgid "Delete image"
+msgstr "Удалить изображение"
+
+msgid "Delete video"
+msgstr "Удалить видео"
+
+msgid "Deleting a Layout"
+msgstr "Удаление макета"
+
+msgid "Descending"
+msgstr "Нисходящий"
+
+msgid "Description"
+msgstr "Описание"
+
+msgid "Description for the sample text field."
+msgstr "Описание примера тактового поля."
+
+msgid "Design options"
+msgstr "Опции дизайна"
+
+msgid "Designates the ascending or descending order. More at %s."
+msgstr "Обозначает возрастание или убывание. Больше на %s."
+
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr "Детали показаны ниже. Импортер пытается снова..."
+
+msgid "Disable"
+msgstr "Отключить"
+
+msgid "Disabled"
+msgstr "Отключено"
+
+msgid "Dismiss this notice"
+msgstr "Убрать это напоминание"
+
+msgid "Display Author"
+msgstr "Отображать автора"
+
+msgid "Display Avatar"
+msgstr "Отображать аватар"
+
+msgid "Display Control Navigation"
+msgstr "Отображать управление навигацией"
+
+msgid "Display Type"
+msgstr "Отображать тип"
+
+msgid "Display URL"
+msgstr "Отображать URL"
+
+msgid "Display a specific testimonial, rather than a list."
+msgstr "Отображать определенный отзыв, а не список ."
+
+msgid "Display images for products"
+msgstr "Отображать фото товаров"
+
+msgid "Display most recent Twitter feed"
+msgstr "Показать самые последние твиты"
+
+msgid "Display testimonials from category."
+msgstr "Показать отзывы категории."
+
+msgid "Display type"
+msgstr "Отображать тип"
+
+msgid "Do not show this popup again"
+msgstr "Больше не показывать это всплывающее окно"
+
+msgid "Do nothing"
+msgstr "Ничего не предпринимать"
+
+msgid "Documentation"
+msgstr "Документация"
+
+msgid "Dotted"
+msgstr "Точечная"
+
+msgid "Double"
+msgstr "Двойная"
+
+msgid "Double Dashed"
+msgstr "Двойная пунктирная"
+
+msgid "Double Dotted"
+msgstr "Двойная точечная"
+
+msgid "Download Video"
+msgstr "Скачать видео"
+
+msgid "Download and import file attachments"
+msgstr "Загрузить и импортировать файлы вложений"
+
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr "Загрузка пакета установки из <span class=\"code\">%s</span>&#8230;"
+
+msgid "Dual Sidebar"
+msgstr "Двойная панель"
+
+msgid "Echo the output."
+msgstr "Выход эхо."
+
+msgid "Edit"
+msgstr "Редактировать"
+
+msgid "Edit %s"
+msgstr "Редактировать %s"
+
+msgid "Edit Brand"
+msgstr "Редактировать бренд"
+
+msgid "Edit Categories"
+msgstr "Редактировать категории"
+
+msgid "Edit Layout Data"
+msgstr "Редактировать данные маета"
+
+msgid "Edit Project"
+msgstr "Редактировать проект"
+
+msgid "Edit Tags"
+msgstr "Редактировать теги"
+
+msgid "Edit this"
+msgstr "Редактировать"
+
+msgid "Email"
+msgstr "E-mail"
+
+msgid "Email address"
+msgstr "E-mail"
+
+msgid "Email:"
+msgstr "E-mail:"
+
+msgid "Empty section. Edit page to add content here."
+msgstr "Пустой раздел. Отредактируйте страницу, чтобы добавить контент сюда."
+
+msgid "Enable"
+msgstr "Включить"
+
+msgid "Enabled"
+msgstr "Включено"
+
+msgid "Encircled"
+msgstr "С окружением"
+
+msgid "Encode link to the current page"
+msgstr "Кодирование ссылку на текущую страницу"
+
+msgid "End-Users Mode"
+msgstr "Режим конечных пользователей"
+
+msgid ""
+"Enter a URL that applies to this customer (for example: http://woothemes."
+"com/)."
+msgstr "Введите URL покупателя."
+
+msgid ""
+"Enter a byline for the customer giving this testimonial (for example: \"CEO "
+"of WooThemes\")."
+msgstr "Введите тему для оставленных отзывов."
+
+msgid "Enter image size. Example in pixels: 200x100 (Width x Height)."
+msgstr ""
+"Введите размер изображения в пикселях. Пример: 200x100 (ширина - высота)"
+
+msgid ""
+"Enter image size. Example: thumbnail, medium, large, full or other sizes "
+"defined by current theme. Alternatively enter image size in pixels: 200x100 "
+"(Width x Height). Leave empty to use 'thumbnail' size."
+msgstr "Введите размер изображения."
+
+msgid ""
+"Enter in an e-mail address, to use a %sGravatar%s, instead of using the "
+"\"Featured Image\"."
+msgstr ""
+"Введите e-mail, который используется на %sGravatar%s, вместо использования "
+"\"изображения\"."
+
+msgid "Enter links for each slide here. Divide links with linebreaks (Enter)."
+msgstr "Введите ссылку для каждого слайда. Разделите ссылки разрывом строк."
+
+msgid "Enter the customer's name here"
+msgstr "Введите имя покупателя"
+
+msgid "Enter the options unique identifier."
+msgstr "Введите уникальный ID выбора."
+
+msgid "Enter thumbnail size. Example: 200x100 (Width x Height)."
+msgstr "Введите размер превью. Пример: 200x100."
+
+msgid ""
+"Enter thumbnail size. Example: thumbnail, medium, large, full or other sizes "
+"defined by current theme. Alternatively enter image size in pixels: 200x100 "
+"(Width x Height)."
+msgstr ""
+"Введите размер изображения. EПример: thumbnail, medium, large, full. Или в "
+"пикселях: 200x100."
+
+msgid "Enter url if you want this image to have link."
+msgstr "Ведите URL."
+
+msgid "Enter your E-mail address"
+msgstr "Ведите e-mail"
+
+msgid "Enter your content."
+msgstr "Введите ваш текст."
+
+msgid "Enter your password"
+msgstr "Введите пароль"
+
+msgid "Enter your username"
+msgstr "Введите имя пользователя"
+
+msgid "Entry ID"
+msgstr "ID входа"
+
+msgid "Error while sending a message!"
+msgstr "Ошибка во время отсылки сообщения!"
+
+msgid "Exclude Post/Page IDs"
+msgstr "Исключить ID постов/страниц"
+
+msgid "Export"
+msgstr "Экспорт"
+
+msgid "Export Settings File"
+msgstr "Экспортировать файл настроек"
+
+msgid "External Link"
+msgstr "Внешняя ссылка"
+
+msgid "Extra Class"
+msgstr "Высший сорт"
+
+msgid "Extra class"
+msgstr "Экстра класс"
+
+msgid "Extra class name"
+msgstr "Дополнительное имя класса"
+
+msgid "Facebook link"
+msgstr "Ссылка на Facebook"
+
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+"Не удалось создать нового пользователя %s. Его посты будут отнесены к "
+"существующему пользователю."
+
+msgid "Failed to import %s %s"
+msgstr "Ошибка импорта %s %s"
+
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr "Ошибка импорта %s &#8220;%s&#8221;"
+
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr "Ошибка импорта &#8220;%s&#8221;: Неверный тип поста %s"
+
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+"Ошибка импорта автора %s. Посты будут прикреплены к текущему пользователю."
+
+msgid "Failed to import category %s"
+msgstr "Ошибка импорта категории %s"
+
+msgid "Failed to import post tag %s"
+msgstr "Ошибка импорта тега поста %s"
+
+msgid "Featured"
+msgstr "Рекомендуемый"
+
+msgid "Featured Products"
+msgstr "Рекомендуемые товары"
+
+msgid "Fetching attachments is not enabled"
+msgstr "Получение вложений не включено"
+
+msgid ""
+"Fill this field with page/posts IDs separated by commas (,) to exclude them "
+"from query."
+msgstr "Введите ID постов/страиц, чтобы исключить их (разделив их запятой)."
+
+msgid ""
+"Fill this field with page/posts IDs separated by commas (,) to retrieve only "
+"them. Use this in conjunction with \"Post types\" field."
+msgstr ""
+"Введите ID постов/страниц, чтобы отобразить только их (разделив запятыми). "
+"Использовать вместе с полем \"Типы постов\"."
+
+msgid ""
+"Fill this field with page/posts IDs separated by commas (,), to retrieve only "
+"them. Use this in conjunction with \"Post types\" field."
+msgstr ""
+"Укажите ID постов/страниц, разделив их запятыми (,). Используйте это "
+"совместно с \"Типы постов\" полем."
+
+msgid "Filled"
+msgstr "Поле"
+
+msgid "Flex slider fade"
+msgstr "Скрытие гибкого слайда"
+
+msgid "Flex slider slide"
+msgstr "Слайд гибкого слайдера"
+
+msgid "Flickr"
+msgstr "Flickr"
+
+msgid "Flickr Photos"
+msgstr "Фотографии на Flickr"
+
+msgid "Font Color"
+msgstr "Цвет текста"
+
+msgid "Font style"
+msgstr "Стиль текста"
+
+msgid "Footer 1"
+msgstr "Футер 1"
+
+msgid "Footer 2"
+msgstr "Футер 2"
+
+msgid "Footer Copyright"
+msgstr "Копирайт в футуре"
+
+msgid "Footer Links"
+msgstr "Ссылки в футере"
+
+msgid "For Developers"
+msgstr "Для разработчиков"
+
+msgid "For example: 64"
+msgstr "На пример: 64"
+
+msgid "From the blog"
+msgstr "Из блога"
+
+msgid ""
+"From your account dashboard you can view your recent orders, manage your "
+"shipping and billing addresses and <a href=\"%s\">edit your password and "
+"account details</a>."
+msgstr ""
+"Вы можете посмотреть свои последние заказы, управлять доставкой и оплатой, а "
+"так же <a href=\"%s\">изменить ваш пароль и детали аккаунта</a>."
+
+msgid "Full Content"
+msgstr "Весь контент"
+
+msgid "Full Width (no sidebar)"
+msgstr "Во всю ширину (без боковых панелей)."
+
+msgid "Full width section"
+msgstr "Раздел во всю ширину"
+
+msgid "Function Reference:get_option_tree()"
+msgstr "Справочник по функциям:get_option_tree()"
+
+msgid "Function Reference:ot_get_option()"
+msgstr "Справочник по функциям:ot_get_option()"
+
+msgid "Function References"
+msgstr "Функция ссылок"
+
+msgid "Gallery type"
+msgstr "Тип галереи"
+
+msgid "General"
+msgstr "Общие"
+
+msgid "Go"
+msgstr "Вперед"
+
+msgid "Go to home page"
+msgstr "На главную страницу"
+
+msgid "Good"
+msgstr "Хорошо"
+
+msgid "Graphic values"
+msgstr "Графические значения"
+
+msgid "Gravatar E-mail Address"
+msgstr "Gravatar адрес электронной почты"
+
+msgid "Green"
+msgstr "Зеленый"
+
+msgid "Grey"
+msgstr "Серый"
+
+msgid "Grid"
+msgstr "Сетка"
+
+msgid "Grid with filter"
+msgstr "Сетка с фильтром"
+
+msgid "Have a coupon?"
+msgstr "Есть купон скидки?"
+
+msgid "Have fun!"
+msgstr "Наслаждайтесь."
+
+msgid "Height"
+msgstr "Высота"
+
+msgid "Hello <strong>%1$s</strong> (not %1$s? <a href=\"%2$s\">Sign out</a>)."
+msgstr ""
+"Здравствуйте <strong>%1$s</strong> (not %1$s? <a href=\"%2$s\">Выйти</a>)."
+
+msgid "Hidden top panel area"
+msgstr "Область скрытой панели"
+
+msgid "Hidden top panel widget area"
+msgstr "Область виджетов скрытой панели"
+
+msgid "Hide"
+msgstr "Спрятать"
+
+msgid "Hide Details"
+msgstr "Спрятать детали"
+
+msgid "Home"
+msgstr "Главная"
+
+msgid "Horizontal"
+msgstr "Горизонтально"
+
+msgid "Horizontal break"
+msgstr "Горизонтальный разрыв"
+
+msgid "Hover effect"
+msgstr "Эффект при наведении"
+
+msgid "Hover mask"
+msgstr "Маска наведения"
+
+msgid "How many comments to show? Enter number."
+msgstr "Сколько комментариев показывать?"
+
+msgid "How many posts to show? Enter number."
+msgstr "Сколько постов показывать?"
+
+msgid "How many slides to show? Enter number or word \"All\"."
+msgstr "Сколько слайдов показывать? Введите число или слово \"All\"."
+
+msgid "How many teasers to show? Enter number or word \"All\"."
+msgstr "Сколько тизеров показывать? Введите число или слово \"All\"."
+
+msgid "How many testimonials to show? Enter number."
+msgstr "Сколько отзывов показывать?"
+
+msgid "How-to-guide"
+msgstr "Инструкция использования"
+
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+"Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import the "
+"posts, pages, comments, custom fields, categories, and tags into this site."
+
+msgid "I have read and accept the"
+msgstr "Я прочитал и принял"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "IDs"
+msgstr "IDs"
+
+msgid "Icon"
+msgstr "Иконка"
+
+msgid "Icon Color"
+msgstr "Цвет иконки"
+
+msgid "Icon Color [HOVER]"
+msgstr "Цвет иконки при наведении"
+
+msgid "Icon Position"
+msgstr "Позиция иконки"
+
+msgid "Icon Style"
+msgstr "Стиль иконки"
+
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+"Пароль нового пользователя будет автоматически сгенерирован&#8217;s роль "
+"будет установлена как %s. Изменение вручную нового пользователя&#8217;s."
+
+msgid "If selected, date will be printed before the teaser text."
+msgstr "Будет отображаться дата перед текстом."
+
+msgid "If selected, image will be linked to the bigger image."
+msgstr "Если выбрано, картинка будет ссылаться на большое изображение."
+
+msgid "If selected, title will be printed before the teaser text."
+msgstr "Будет выводиться заголовок."
+
+msgid ""
+"If you have shopped with us before, please enter your details in the boxes "
+"below. If you are a new customer please proceed to the Billing & Shipping "
+"section."
+msgstr ""
+"Если вы уже были нашим покупателем, пожалуйста введите детали предыдущей "
+"покупки внизу. Если вы новый покупатель - перейдите к разделу Оплата и "
+"доставка."
+
+msgid ""
+"If you have shopped with us before, please enter your details in the boxes "
+"below. If you are a new customer please proceed to the Billing &amp; Shipping "
+"section."
+msgstr ""
+"Если вы уже были нашим покупателем, пожалуйста введите детали предыдущей "
+"покупки внизу. Если вы новый покупатель - перейдите к разделу Оплата и "
+"доставка."
+
+msgid ""
+"If you require assistance or wish to make alternate arrangements please "
+"contact us."
+msgstr "Если вам требуется помощь, пожалуйста, свяжитесь с нами."
+
+msgid ""
+"If you want to narrow output, enter category names here. Note: Only listed "
+"categories will be included. Divide categories with linebreaks (Enter)."
+msgstr ""
+"Если вы хотите сузить вывод , введите названия категорий здесь. Примечание: "
+"только перечисленные категории будут включены . Разделите категории с "
+"разрывом строк (Enter)."
+
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr "Поле для добавления класса CSS."
+
+msgid "Image"
+msgstr "Изображение"
+
+msgid "Image Gallery"
+msgstr "Галерея изображений"
+
+msgid "Image Size (in pixels):"
+msgstr "Размер изображения (в пикселях):"
+
+msgid "Image Source (Radio Image only)"
+msgstr "Источник изображения (Radio Image only)"
+
+msgid "Image grid"
+msgstr "Сетка изображения"
+
+msgid "Image link"
+msgstr "Ссылка с изображения"
+
+msgid "Image size"
+msgstr "Размер изображения"
+
+msgid "Image size:"
+msgstr "Размер изображения:"
+
+msgid "Images"
+msgstr "Изображения"
+
+msgid "Import"
+msgstr "Импорт"
+
+msgid ""
+"Import <strong>posts, pages, comments, custom fields, categories, and tags</"
+"strong> from a WordPress export file."
+msgstr ""
+"Импорт <strong>сообщений, страницы, комментарии, пользовательские поля, "
+"категории и теги</strong> из файла."
+
+msgid "Import Attachments"
+msgstr "Импорт вложений"
+
+msgid "Import Layouts"
+msgstr "Импортировать макеты"
+
+msgid "Import Settings"
+msgstr "Импортировать настройки"
+
+msgid "Import Theme Options"
+msgstr "Импорт настройки темы"
+
+msgid "Import WordPress"
+msgstr "Импорт вордпресс"
+
+msgid "Import XML"
+msgstr "Импорт XML"
+
+msgid "Import author:"
+msgstr "Импортировать автора:"
+
+msgid "In Stock"
+msgstr "В наличии"
+
+msgid "Information to encode:"
+msgstr "Информация к кодированию:"
+
+msgid "Input"
+msgstr "Вход"
+
+msgid ""
+"Input graph values here. Divide values with linebreaks (Enter). Example: 90|"
+"Development"
+msgstr "Введите значения сюда. Разделив их Enter. Пимер: 90|Development"
+
+msgid "Insert static block, that you created"
+msgstr "Вставить статичный блок, который вы создали"
+
+msgid "Instagram"
+msgstr "Instagram"
+
+msgid "Install"
+msgstr "Уставновить"
+
+msgid "Install Demo Data"
+msgstr "Установить демо данные"
+
+msgid "Install Plugins"
+msgstr "Установить плагины"
+
+msgid "Install Required Plugins"
+msgstr "Установите требуемые плагины"
+
+msgid "Install package not available."
+msgstr "Установочный пакет недоступен."
+
+msgid "Installed But Not Activated"
+msgstr "Установлено, но не активировано"
+
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Установка плагина %1$s (%2$d/%3$d)"
+
+msgid "Installing Plugin: %s"
+msgstr "Установка плагина: %s"
+
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Установка и активация плагина %1$s (%2$d/%3$d)"
+
+msgid "Installing the plugin&#8230;"
+msgstr "Установка плагина&#8230;"
+
+msgid "Interval"
+msgstr "Интервал"
+
+msgid "Interval between slides. In milliseconds. Default: 10000"
+msgstr "Интервал между слайдами. В миллисекундах. По умолчанию: 10000"
+
+msgid "Invalid file type"
+msgstr "Неверный тип файла"
+
+msgid "It's Super Simple"
+msgstr "Это супер просто"
+
+msgid "Label"
+msgstr "Метка"
+
+msgid "Large"
+msgstr "Большой"
+
+msgid "Latest Products"
+msgstr "Последние товары"
+
+msgid "Layout"
+msgstr "Расположения"
+
+msgid "Layout activated."
+msgstr "Макет активирован."
+
+msgid "Layouts"
+msgstr "Макеты"
+
+msgid "Layouts Imported."
+msgstr "Макеты импортированы."
+
+msgid "Layouts Overview"
+msgstr "Обзор макетов"
+
+msgid "Layouts Updated."
+msgstr "Макеты обновлены."
+
+msgid "Layouts could not be imported."
+msgstr "Макеты не могут быть импортированы."
+
+msgid "Layouts could not be updated."
+msgstr "Макеты не могут быть обновлены."
+
+msgid "Leave a Reply to %s"
+msgstr "Оставить комментарий к %s"
+
+msgid "Left"
+msgstr "Лево"
+
+msgid "Left Dual Sidebar"
+msgstr "Левая двойная панель."
+
+msgid "Left Sidebar"
+msgstr "Левая панель"
+
+msgid "Left bar"
+msgstr "Левый столбец"
+
+msgid "Left to right"
+msgstr "Слева направо"
+
+msgid "Limit"
+msgstr "Ограничение"
+
+msgid "Limit:"
+msgstr "Ограничение:"
+
+msgid "Link"
+msgstr "Ссылка"
+
+msgid "Link Target"
+msgstr "Цель ссылки"
+
+msgid "Link to large image?"
+msgstr "Ссылка на большое изображение?"
+
+msgid "Linkedin"
+msgstr "Linkedin"
+
+msgid "List Item"
+msgstr "Список элементов"
+
+msgid "Load More Posts"
+msgstr "Загрузить больше сообщений"
+
+msgid "Loading the content..."
+msgstr "Загрузка содержимого..."
+
+msgid "Login"
+msgstr "Войти"
+
+msgid "Logout"
+msgstr "Выйти"
+
+msgid "Lost Password?"
+msgstr "Забыли пароль?"
+
+msgid "Lost your password?"
+msgstr "Забыли пароль?"
+
+msgid "M j, Y @ G:i"
+msgstr "M j, Y @ G:i"
+
+msgid "Main Sidebar"
+msgstr "Главная боковая панель"
+
+msgid "Main menu"
+msgstr "Главное меню"
+
+msgid "Maximum number of brands to display"
+msgstr "Максимальное количество брендов для отображения"
+
+msgid "Measurement"
+msgstr "Измерение"
+
+msgid "Member description"
+msgstr "Описание пользователя"
+
+msgid "Member email"
+msgstr "E-mail пользователя"
+
+msgid "Member information"
+msgstr "Информация о пользователе"
+
+msgid "Member name"
+msgstr "Имя пользователя"
+
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr "Пункт меню пропускается из-за отсутствия меню пули: %s"
+
+msgid "Menu item skipped due to missing menu slug"
+msgstr "Пункт меню пропускается из-за отсутствия меню пули"
+
+msgid "Menu order"
+msgstr "Порядку в меню"
+
+msgid "Message"
+msgstr "Сообщение"
+
+msgid "Meta Boxes"
+msgstr "Мета блоки"
+
+msgid "Mini"
+msgstr "Мини"
+
+msgid "Mobile menu"
+msgstr "Мобильное меню"
+
+msgid "Mobile version"
+msgstr "Мобильная версия"
+
+msgid "Modified"
+msgstr "Дате изменения"
+
+msgid "More Info"
+msgstr "Характеристики"
+
+msgid "My Account"
+msgstr "Мой аккаунт"
+
+msgid "Name"
+msgstr "Имя"
+
+msgid "Name and Surname"
+msgstr "Имя и фамилия"
+
+msgid "Navigation"
+msgstr "Навигация"
+
+msgid "New"
+msgstr "Новинка"
+
+msgid "New %s"
+msgstr "Новый %s"
+
+msgid "New %s Name"
+msgstr "Имя нового %s"
+
+msgid "New Brand Name"
+msgstr "Имя бренда"
+
+msgid "New Category Name"
+msgstr "Имя категории"
+
+msgid "New Customers"
+msgstr "Новые покупатели"
+
+msgid "New Layout"
+msgstr "Новый макет"
+
+msgid "New Project"
+msgstr "Новый проект"
+
+msgid "New Tag Name"
+msgstr "Имя тега"
+
+msgid "New password"
+msgstr "Пароль"
+
+msgid "New window"
+msgstr "Новое окно"
+
+msgid "New!"
+msgstr "Новинка!"
+
+msgid "Newer Comments &rarr;"
+msgstr "Новые комментарии &rarr;"
+
+msgid "Newer Posts &rarr;"
+msgstr "Новые сообщения &rarr;"
+
+msgid "Next"
+msgstr "Следубщий"
+
+msgid "Nivo slider"
+msgstr "Ниво слайдер"
+
+msgid "No"
+msgstr "Нет"
+
+msgid "No %s Found"
+msgstr "%s не найдено"
+
+msgid "No %s Found In Trash"
+msgstr "%s не найдено в корзине"
+
+msgid "No Categories Found"
+msgstr "Категории не найдены"
+
+msgid "No Comments"
+msgstr "Нет комментариев"
+
+msgid "No Order"
+msgstr "Без сортировки"
+
+msgid "No Pages Found"
+msgstr "Страницы не найдены"
+
+msgid "No Posts Found"
+msgstr "Посты не найдены"
+
+msgid "No Tags Found"
+msgstr "Теги не найдены"
+
+msgid "No Taxonomies Found"
+msgstr "Таксономии не найдены"
+
+msgid "No description"
+msgstr "Нет отписания"
+
+msgid "No pages were found!"
+msgstr "Страницы не найдены!"
+
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+"Нет плагинов для того чтобы установить или активировать. <a href=\"%1$s\" "
+"title=\"Return to the Dashboard\">Вернуться к приборной панели</a>"
+
+msgid "No posts were found!"
+msgstr "Записей не найдено!"
+
+msgid "No products in the cart."
+msgstr "В корзине нет товаров."
+
+msgid "No products were added to the wishlist"
+msgstr "В списке желаний нет товаров"
+
+msgid "No projects found"
+msgstr "Не найдено проектов"
+
+msgid "No projects found in Trash"
+msgstr "Не найдено проектов в корзине"
+
+msgid "No results were found!"
+msgstr "Ничего не найдено!"
+
+msgid ""
+"No shipping methods were found; please recalculate your shipping or continue "
+"to checkout and enter your full address to see if there is shipping available "
+"to your location."
+msgstr "Не найдено способов доставки."
+
+msgid "None"
+msgstr "Ни один"
+
+msgid "Not Installed"
+msgstr "Не установлено"
+
+msgid "Not enough information"
+msgstr "Не достаточно информации"
+
+msgid "Not that bad"
+msgstr "Неплохо"
+
+msgid ""
+"Note: Shipping and taxes are estimated%s and will be updated during checkout "
+"based on your billing and shipping information."
+msgstr ""
+"Примечание: стоимость доставки установлена%s и будет обновлена во время "
+"оформления заказа исходя из выбранного вами способа оплаты и доставки."
+
+msgid "Nothing found."
+msgstr "Ничего не найдено."
+
+msgid "Number of columns"
+msgstr "Число колонок"
+
+msgid "Number of comments to show:"
+msgstr "Количество комментариев, чтобы показать :"
+
+msgid "Number of items from each section"
+msgstr "Количество предметов из каждой секции"
+
+msgid "Number of items on desktop"
+msgstr "Количество элементов на компьютере"
+
+msgid "Number of items on notebook"
+msgstr "Количество элементов на ноутбуке"
+
+msgid "Number of items on phones"
+msgstr "Количество элементов на телефоне"
+
+msgid "Number of items on tablet"
+msgstr "Количество элементов на планшете"
+
+msgid "Number of posts to show:"
+msgstr "Показывать количество постов:"
+
+msgid "Number of tweets:"
+msgstr "Количество твитов:"
+
+msgid "Oh bother! No search results were found here!"
+msgstr "Ничего не найдено!"
+
+msgid "On click"
+msgstr "По клику"
+
+msgid "One Comment"
+msgstr "Один комментарий"
+
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr "Только те, кто покупал этот товар могут оставлять отзывы."
+
+msgid "Oops! Page not found"
+msgstr "Ой, страница не найдена!"
+
+msgid "Open custom link"
+msgstr "Открыть ссылку"
+
+msgid "Open prettyPhoto"
+msgstr "Открыть prettyPhoto"
+
+msgid "Option Tree"
+msgstr "Дерево настроек"
+
+msgid "Option Types"
+msgstr "Типы опций"
+
+msgid "Option types in alphabetical order & hooks to filter them."
+msgstr "Типы параметров в алфавитном порядке и зацепы для их фильтрации."
+
+msgid "OptionTree"
+msgstr "Дерево опций"
+
+msgid "Or you can use YouTube or Vimeo iframe code"
+msgstr "Вы можете использовать Ютьюб или айфрейм код видео"
+
+msgid "Orange"
+msgstr "Оранжевый"
+
+msgid "Order"
+msgstr "Заказ"
+
+msgid "Order By:"
+msgstr "Сортировка по:"
+
+msgid "Order Direction:"
+msgstr "Сортировка описания:"
+
+msgid "Order Total"
+msgstr "Весь заказ"
+
+msgid "Order by"
+msgstr "Сортировать по"
+
+msgid "Order way"
+msgstr "Порядок сортировки"
+
+msgid "Order:"
+msgstr "Заказ:"
+
+msgid "Our offers"
+msgstr "Варианты товара"
+
+msgid "Out of Stock"
+msgstr "Под заказ"
+
+msgid "Out of stock"
+msgstr "Под заказ"
+
+msgid "Output"
+msgstr "Выход"
+
+msgid "Output post date?"
+msgstr "Дата выхода поста?"
+
+msgid "Output post title?"
+msgstr "Выводить заголовок поста?"
+
+msgid "Overview of available Theme Option fields."
+msgstr "Обзор доступных полей опций для темы."
+
+msgid "Page"
+msgstr "Страница"
+
+msgid "Page %s"
+msgstr "Страница %s"
+
+msgid "Page Checkbox"
+msgstr "Чекбокс страница"
+
+msgid "Page Select"
+msgstr "Выбор страницы"
+
+msgid "Pages"
+msgstr "Страницы"
+
+msgid "Pagination"
+msgstr "Пагинация"
+
+msgid "Parallax effect for background"
+msgstr "Паралакс эффект для заднего фона"
+
+msgid "Parameters"
+msgstr "Параметры"
+
+msgid "Parent %s"
+msgstr "Родитель %s"
+
+msgid "Parent %s:"
+msgstr "Родитель %s:"
+
+msgid "Parent Brand"
+msgstr "Родительский бренд"
+
+msgid "Parent Brand:"
+msgstr "Родительский бренд:"
+
+msgid "Parent Category"
+msgstr "Родительская категория"
+
+msgid "Parent Category:"
+msgstr "Родительская категория:"
+
+msgid "Parent Tag"
+msgstr "Родительский тег"
+
+msgid "Parent Tag:"
+msgstr "Родительский тег:"
+
+msgid "Password"
+msgstr "Пароль"
+
+msgid "Password should have more than 5 symbols"
+msgstr "Пароль должен быть более 5 символов"
+
+msgid "Pay"
+msgstr "Оплатить"
+
+msgid "Pay for order"
+msgstr "Оплатить заказ"
+
+msgid "Payment Method"
+msgstr "Способ оплаты"
+
+msgid "Payment method:"
+msgstr "Метод оплаты:"
+
+msgid "Perfect"
+msgstr "Отлично"
+
+msgid "Pingback:"
+msgstr "Пинг:"
+
+msgid "Place in header top bar"
+msgstr "Место в заголовке верхней панели"
+
+msgid "Place order"
+msgstr "Осуществить заказ"
+
+msgid "Please attempt your purchase again or go to your account page."
+msgstr ""
+"Пожалуйста, попытайтесь оставить покупку еще раз или войдите в свой аккаунт."
+
+msgid "Please attempt your purchase again."
+msgstr "Пожалуйста, попытайтесь оставить покупку еще раз."
+
+msgid "Please check your email for login details."
+msgstr "Пожалуйста, проверьте регистрационные данные в своей электронной почте."
+
+msgid "Please enter a valid email."
+msgstr "Пожалуйста, введите действительный адрес электронной почты."
+
+msgid "Please fill in your details above to see available payment methods."
+msgstr "Введите свои данные, чтобы увидеть доступные способы оплаты."
+
+msgid "Please fill in your details to see available shipping methods."
+msgstr ""
+"Пожалуйста, заполните свои данные, чтобы увидеть доступные методы доставки."
+
+msgid "Please, fill in the required fields!"
+msgstr "Пожалуйста, заполните обязательные поля!"
+
+msgid "Plugin"
+msgstr "Плагин"
+
+msgid "Plugin activated successfully."
+msgstr "Плагин активирован успешно."
+
+msgid "Plugin activation failed."
+msgstr "Ошибка активации плагина."
+
+msgid "Plugin install failed."
+msgstr "Не удалось установить плагин."
+
+msgid "Plugin installed successfully."
+msgstr "Плагин успешно установлен."
+
+msgid "Portfolio"
+msgstr "Портфолио"
+
+msgid "Position"
+msgstr "Позиция"
+
+msgid "Post Checkbox"
+msgstr "Чекбокс поста"
+
+msgid "Post ID"
+msgstr "ID поста"
+
+msgid "Post Select"
+msgstr "Выбор поста"
+
+msgid "Post Type"
+msgstr "Тип поста"
+
+msgid "Post types"
+msgstr "Типы записей"
+
+msgid "Post/Page IDs"
+msgstr "ID поста/страницы"
+
+msgid "Posted by"
+msgstr "Сообщение от"
+
+msgid "Posted on"
+msgstr "Опубликовано"
+
+msgid "Pre-Packaged"
+msgstr "Предварительно упакованный"
+
+msgid "Prefooter Row"
+msgstr "Ряд перед футером"
+
+msgid "Previous"
+msgstr "Предыдущий"
+
+msgid "Price"
+msgstr "Цена"
+
+msgid "Private"
+msgstr "Частное"
+
+msgid "Private Repository"
+msgstr "Личное хранилище"
+
+msgid "Proceed to Checkout"
+msgstr "Перейти к оформлению заказа"
+
+msgid "Product"
+msgstr "Товар"
+
+msgid "Product Information"
+msgstr "Информация о товаре"
+
+msgid "Product Name"
+msgstr "Товар"
+
+msgid "Product Video"
+msgstr "Видео товара"
+
+msgid "Product brand"
+msgstr "Бренд товара"
+
+msgid "Product code"
+msgstr "Артикул"
+
+msgid "Product description"
+msgstr "Описание товара"
+
+msgid "Product successfully removed."
+msgstr "Продукт успешно удален."
+
+msgid "Product view"
+msgstr "Просмотр товара"
+
+msgid "Products Filter by brands"
+msgstr "Фильтр товаров по брендам"
+
+msgid "Products type"
+msgstr "Тип товара"
+
+msgid "Project"
+msgstr "Проект"
+
+msgid "Projects"
+msgstr "Проекты"
+
+msgid "Provide a key of your item"
+msgstr "Предоставить ключ вашей вещи"
+
+msgid "QR Code"
+msgstr "QR код"
+
+msgid "Qty"
+msgstr "Количество"
+
+msgid "Quantity"
+msgstr "Количество"
+
+msgid "Quantity:"
+msgstr "Количество:"
+
+msgid "Quick View"
+msgstr "Быстрый просмотр"
+
+msgid "Radio"
+msgstr "Радио"
+
+msgid "Radio Image"
+msgstr "Радио картинка"
+
+msgid "Random"
+msgstr "Произвольно"
+
+msgid "Random Order"
+msgstr "Случайная сортировка"
+
+msgid "Rate&hellip;"
+msgstr "Оценить&hellip;"
+
+msgid "Rating"
+msgstr "Рейтинг"
+
+msgid "Rating:"
+msgstr "Рейтинг:"
+
+msgid "Re-enter new password"
+msgstr "Повторите введенный пароль"
+
+msgid "Re-enter your password"
+msgstr "Повторно введите пароль"
+
+msgid "Read More"
+msgstr "Узнать больше"
+
+msgid "Read more"
+msgstr "Узнать больше"
+
+msgid "Recent Comments"
+msgstr "Последние комментарии"
+
+msgid "Recent Orders"
+msgstr "Последние заказы"
+
+msgid "Recent Posts"
+msgstr "Последние посты"
+
+msgid "Recent Works"
+msgstr "Последние работы"
+
+msgid "Recent testimonials on your site."
+msgstr "Последние отзывы на сайте."
+
+msgid "Recently viewed"
+msgstr "Недавно просмотренные"
+
+msgid "Recommended"
+msgstr "Рекомендовано"
+
+msgid "Red"
+msgstr "Красный"
+
+msgid "Register"
+msgstr "Регистрация"
+
+msgid ""
+"Register with us for future convenience: fast and easy check out, easy access "
+"to your orders history and statuses"
+msgstr ""
+"Преимущества регистрации в магазине: быстро и легко заказывать, ведение "
+"истории заказов"
+
+msgid "Registration successful"
+msgstr "Регистрация успешна"
+
+msgid "Regular size"
+msgstr "Обычный размер"
+
+msgid "Related Products"
+msgstr "Дополнительные товары"
+
+msgid "Remember me"
+msgstr "Запомнить"
+
+msgid "Remote file is incorrect size"
+msgstr "Удаленный файл неверного размера"
+
+msgid "Remote file is too large, limit is %s"
+msgstr "Удаленный файл слишком большой, лимит %s"
+
+msgid "Remote server did not respond"
+msgstr "Удаленный сервер не отвечает"
+
+msgid "Remote server returned error response %1$d %2$s"
+msgstr "Удаленный сервер вернул ошибку %1$d %2$s"
+
+msgid "Remove Media"
+msgstr "Удалить медиа"
+
+msgid "Remove image"
+msgstr "Удалить изображение"
+
+msgid "Remove this item"
+msgstr "Удалить этот товар"
+
+msgid "Remove this product"
+msgstr "Удалить этот товар"
+
+msgid "Required"
+msgstr "Обязательно"
+
+msgid "Reset Options"
+msgstr "Сбросить опции"
+
+msgid "Return To Shop"
+msgstr "Вернуться в магазин"
+
+msgid "Return to Previous Page"
+msgstr "Назад"
+
+msgid "Return to Required Plugins Installer"
+msgstr "Вернуться к установке требуемых плагинов"
+
+msgid "Return to the Dashboard"
+msgstr "Вернуться к панели управления"
+
+msgid "Return to the dashboard"
+msgstr "Вернуться к витрине"
+
+msgid "Returning Customers"
+msgstr "Вернувшиеся покупатели"
+
+msgid "Returning customer?"
+msgstr "Вернулись за покупкой?"
+
+msgid "Reviews"
+msgstr "Отзывы"
+
+msgid "Right Dual Sidebar"
+msgstr "Правая двойная панель."
+
+msgid "Right Sidebar"
+msgstr "Правая панель"
+
+msgid "Right bar"
+msgstr "Правый столбец"
+
+msgid "Right side panel area"
+msgstr "Область правой панели"
+
+msgid "Right side panel widget area"
+msgstr "Область виджетов правой панели"
+
+msgid "Right to left"
+msgstr "Справа налево"
+
+msgid "Rows"
+msgstr "Строки"
+
+msgid "SIZING GUIDE"
+msgstr "Информация по размерам"
+
+msgid "SKUs"
+msgstr "Артикулы"
+
+msgid "Sale"
+msgstr "Скидка"
+
+msgid "Sale!"
+msgstr "Скидка!"
+
+msgid "Same window"
+msgstr "То же окно"
+
+msgid "Sample Text Field Label"
+msgstr "Образец названия текстового поля"
+
+msgid "Save"
+msgstr "Сохранить"
+
+msgid "Save Address"
+msgstr "Сохранить адрес"
+
+msgid "Save Changes"
+msgstr "Сохранить изменения"
+
+msgid "Save Layouts"
+msgstr "Сохранить макеты"
+
+msgid "Save Settings"
+msgstr "Сохранить настройки"
+
+msgid "Search"
+msgstr "Поиск"
+
+msgid "Search %a"
+msgstr "Искать %a"
+
+msgid "Search %s"
+msgstr "Посик %s"
+
+msgid "Search Brands"
+msgstr "Искать бренды"
+
+msgid "Search From"
+msgstr "Поиск от"
+
+msgid "Search Projects"
+msgstr "Искать проекты"
+
+msgid "Search Types"
+msgstr "Типы поиска"
+
+msgid "Search for pages"
+msgstr "Искать страницы"
+
+msgid "Search for posts"
+msgstr "Искать посты"
+
+msgid "Search for products"
+msgstr "Искать товары"
+
+msgid "Search for:"
+msgstr "Искать:"
+
+msgid "Search in portfolio"
+msgstr "Искать в портфолио"
+
+msgid "Search the forum"
+msgstr "Поиск по форуму"
+
+msgid "Section"
+msgstr "Раздел"
+
+msgid "Select"
+msgstr "Выбор"
+
+msgid "Select button alignment."
+msgstr "Выберите выравнивание кнопки."
+
+msgid "Select columns count."
+msgstr "Выберите количество колонок."
+
+msgid "Select font color"
+msgstr "Выберите цвет текста"
+
+msgid "Select gallery type."
+msgstr "Вберите тип галереи."
+
+msgid "Select how to sort retrieved posts. More at %s."
+msgstr "Выберите способ сортировки извлеченных постов . Больше на %s."
+
+msgid "Select image from media library."
+msgstr "Выберите изображение из библиотеки."
+
+msgid "Select images from media library."
+msgstr "Выберите изображения из медиа библиотеки."
+
+msgid "Select post types to populate posts from."
+msgstr "Выберите типы постов, чтобы заполнять посты от."
+
+msgid "Select taxonomies from."
+msgstr "Выбрать таксономии от."
+
+msgid ""
+"Select type of animation if you want this element to be animated when it "
+"enters into the browsers viewport. Note: Works only in modern browsers."
+msgstr "Выберите тип анимации."
+
+msgid "Select where to open  custom links."
+msgstr "Выбрать, когда открыть ссылку."
+
+msgid "Send message"
+msgstr "Отправить сообщение"
+
+msgid "Send to OptionTree"
+msgstr "Отправить в дерево настроек"
+
+msgid "Sending..."
+msgstr "Отправка..."
+
+msgid "Settings"
+msgstr "Параметры"
+
+msgid "Settings Imported."
+msgstr "Настройки импортированы."
+
+msgid "Settings PHP File"
+msgstr "Настройки PHP-файлов"
+
+msgid "Settings XML"
+msgstr "Настройки XML"
+
+msgid "Settings could not be imported."
+msgstr "Настройки не могут быть импортированы."
+
+msgid "Settings could not be saved."
+msgstr "Настройки не могут быть сохранены."
+
+msgid "Settings updated."
+msgstr "Настройки обновлены."
+
+msgid "Ship to a different address?"
+msgstr "Доставить на другой адрес?"
+
+msgid "Shipping"
+msgstr "Доставка"
+
+msgid "Shipping #%d"
+msgstr "Доставка #%d"
+
+msgid "Shipping Address"
+msgstr "Адрес доставки"
+
+msgid "Shipping and Handling"
+msgstr "Доставка и получение"
+
+msgid "Shop Sidebar"
+msgstr "Боковая панель магадина"
+
+msgid "Shop page widget area"
+msgstr "Область виджетов магазина"
+
+msgid "Shopping cart sidebar"
+msgstr "Боковая панель корзины"
+
+msgid "Show"
+msgstr "Показать"
+
+msgid "Show All"
+msgstr "Показать все"
+
+msgid "Show Control Navigation"
+msgstr "Показать навигацию"
+
+msgid "Show Details"
+msgstr "Показать детали"
+
+msgid "Show Pagination"
+msgstr "Показывать пагинацию"
+
+msgid "Show all"
+msgstr "Показать все"
+
+msgid "Show as a drop down"
+msgstr "Показывать как выпадающий"
+
+msgid "Show border"
+msgstr "Показывать границу"
+
+msgid "Show in lightbox"
+msgstr "Показывать в лайтбоксе"
+
+msgid "Show more posts link"
+msgstr "Показать больше ссылок на сообщения"
+
+msgid "Sign In"
+msgstr "Войти"
+
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your order. "
+"You may be charged more than the amount stated above if you fail to do so."
+msgstr ""
+"Ваш браузер не поддерживает JavaScript, пожалуйста, убедитесь что вы "
+"нажимаете кнопку <em>Обновить итоговую суму</em> перед осуществлением заказа."
+
+msgid "Single product page Sidebar"
+msgstr "Боковая панель товаров"
+
+msgid "Single product page widget area"
+msgstr "Область боковой панели товаров"
+
+msgid "Size"
+msgstr "Размер"
+
+msgid "Skype name"
+msgstr "Имя Skype"
+
+msgid "Slider"
+msgstr "Слайдер"
+
+msgid "Slider full width (LOOK BOOK)"
+msgstr "Слайдер на полную ширину (LOOK BOOK)"
+
+msgid "Slides count"
+msgstr "Количество слайдов"
+
+msgid "Small"
+msgstr "Маленький"
+
+msgid "Social"
+msgstr "Поделиться в социальных сетях"
+
+msgid "Social Profiles"
+msgstr "Социальные профили"
+
+msgid "Some sliders support description text, what content use for it?"
+msgstr ""
+"Некоторые слайдеры поддерживают текст описания, какой компонент использовать "
+"для них?"
+
+msgid "Something went wrong with the plugin API."
+msgstr "Что-то пошло не так с API плагина."
+
+msgid "Something went wrong."
+msgstr "Что-то пошло не так."
+
+msgid ""
+"Sorry, but the page you are looking for is not found. Please, make sure you "
+"have typed the current URL."
+msgstr "Страница, которую вы ищете, не может быть найдена."
+
+msgid ""
+"Sorry, it seems that there are no available payment methods for your "
+"location. Please contact us if you require assistance or wish to make "
+"alternate arrangements."
+msgstr ""
+"Нет подходящего способы оплаты для вашего региона. Пожалуйста, свяжитесь с "
+"нами."
+
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+"Нет подходящего способы оплаты для вашего региона. Пожалуйста, свяжитесь с "
+"нами."
+
+msgid "Sorry, no posts matched your criteria."
+msgstr "Извините, нет записей, удовлетворяющих вашим условиям."
+
+msgid "Sorry, shipping is unavailable %s."
+msgstr "Извините, доставка недоступна %s."
+
+msgid "Sorry, there has been an error."
+msgstr "Ошибка."
+
+msgid "Sorry, this function does not exist"
+msgstr "Извините, функции не существует"
+
+msgid "Sorry, you can't have settings three levels deep."
+msgstr "К сожалению, вы не можете иметь настройки тремя уровнями в глубину."
+
+msgid "Source"
+msgstr "Источник"
+
+msgid "Space"
+msgstr "Пробел"
+
+msgid "Specific ID (optional):"
+msgstr "Специфический ID (можно не указывать):"
+
+msgid "Specified Order Setting"
+msgstr "Установить специальное значение"
+
+msgid "Standard"
+msgstr "Стандартный"
+
+msgid "Static Blocks"
+msgstr "Статичные блоки"
+
+msgid "Static block for the first slide of the LOOK BOOK"
+msgstr "Статический блок на первом слайде LOOK BOOK"
+
+msgid "Statick Block"
+msgstr "Статичный блок"
+
+msgid "Status"
+msgstr "Статус"
+
+msgid "Stock Status"
+msgstr "Наличие"
+
+msgid "String Examples"
+msgstr "Примеры строк"
+
+msgid "Style"
+msgstr "Стиль"
+
+msgid "Style 2"
+msgstr "Стиль 2"
+
+msgid "Submit"
+msgstr "Отправить"
+
+msgid "Submit Review"
+msgstr "Отправить отзыв"
+
+msgid "Tab"
+msgstr "Таб"
+
+msgid "Tab 1"
+msgstr "Таб 1"
+
+msgid "Tab 2"
+msgstr "Таб 2"
+
+msgid "Tab ID"
+msgstr "ID таба"
+
+msgid "Tab title."
+msgstr "Заголовок таба."
+
+msgid "Tabs"
+msgstr "Табы"
+
+msgid "Tabs type"
+msgstr "Тип табов"
+
+msgid "Tag"
+msgstr "Тег"
+
+msgid "Tag Checkbox"
+msgstr "Чекбокс тега"
+
+msgid "Tag Select"
+msgstr "Выбор тега"
+
+msgid "Tag archives for:"
+msgstr "Архивы тегов для:"
+
+msgid "Tag:"
+msgstr "Тег:"
+
+msgid "Tags"
+msgstr "Теги"
+
+msgid "Target"
+msgstr "Цель"
+
+msgid "Taxonomies"
+msgstr "Таксономии"
+
+msgid "Taxonomy"
+msgstr "Таксономия"
+
+msgid "Taxonomy Checkbox"
+msgstr "Таксономия чекбокса"
+
+msgid "Taxonomy Select"
+msgstr "Таксономия выбора"
+
+msgid "Teaser (Excerpt)"
+msgstr "Тизер (Ожидание)"
+
+msgid "Teaser grid layout"
+msgstr "Макет сетки тизера"
+
+msgid "Teaser layout template."
+msgstr "Шаблон расположения тизера."
+
+msgid "Teaser layout."
+msgstr "Расположение тизера."
+
+msgid "Teasers count"
+msgstr "Количество тизеров"
+
+msgid "Testimonial"
+msgstr "Отзыв"
+
+msgid "Testimonial Details"
+msgstr "Детали отзыва"
+
+msgid "Testimonial draft updated. %sPreview testimonial%s"
+msgstr "Проект отзывов обновлен. %sПредпросмотр%s"
+
+msgid "Testimonial published. %sView testimonial%s"
+msgstr "Отзыв опубликован. %sПосмотреть%s"
+
+msgid "Testimonial restored to revision from %s"
+msgstr "Отзыв восстановлен на обзор %s"
+
+msgid "Testimonial saved."
+msgstr "Отзыв сохранен."
+
+msgid "Testimonial scheduled for: %1$s. %2$sPreview testimonial%3$s"
+msgstr "Подписка на отзывы: %1$s. %2$sПредпросмотр отзыва%3$s"
+
+msgid "Testimonial submitted. %sPreview testimonial%s"
+msgstr "Оставлен отзыв. %sПосмотреть%s"
+
+msgid "Testimonial updated."
+msgstr "Отзыв обновлен."
+
+msgid "Testimonial updated. %sView testimonial%s"
+msgstr "Отзыв обновлен. %sСмотреть%s"
+
+msgid "Testimonials"
+msgstr "Отзывы"
+
+msgid "Text"
+msgstr "Текст"
+
+msgid "Text (Input)"
+msgstr "Текст (ввод)"
+
+msgid "Text on the button"
+msgstr "Текст на кнопке"
+
+msgid "Text on the button."
+msgstr "Текст на кнопке."
+
+msgid "Textarea"
+msgstr "Область текста"
+
+msgid "Textarea Simple"
+msgstr "Простая область текста"
+
+msgid "Textblock"
+msgstr "Блок текста"
+
+msgid "Textblock Titled"
+msgstr "Блок текста с заголовком"
+
+msgid "Thank you. Your order has been received."
+msgstr ""
+"Спасибо. Ваш заказ получен, в течение рабочего дня наш менеджер вам "
+"перезвонит."
+
+msgid "Thanks for creating an account on %s. Your username is %s."
+msgstr "Спасибо за создание учетной записи на %s. Ваше имя пользователя %s."
+
+msgid "The Colorpicker only allows valid hexadecimal values."
+msgstr "Colorpicker воспринимает только шестнадцатеричные значения."
+
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that this "
+"was caused by a permissions problem."
+msgstr "Файл экспорта не найден <code>%s</code>. Ошибка разрешений."
+
+msgid "The file does not exist, please try again."
+msgstr "Файла не существует."
+
+msgid "The following plugin was activated successfully:"
+msgstr "Следующие плагины успешно активированы:"
+
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr "Процесс установки и активации начался. Пожалуйста, подождите."
+
+msgid "The installation of %1$s failed."
+msgstr "Ошибка установки %1$s."
+
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr "Процесс установки начался."
+
+msgid "The main sidebar area"
+msgstr "Область главной боковой панели"
+
+msgid "The most recent comments (Etheme edit)"
+msgstr "Последние комментарии (Etheme edit)"
+
+msgid "The most recent posts on your blog (Etheme Edit)"
+msgstr "Последние посты на вашем блоге (Etheme Edit)"
+
+msgid "The passwords do not match"
+msgstr "Пароли не совпадают"
+
+msgid "The security code you entered did not match. Please try again."
+msgstr ""
+"Код безопасности Вы ввели, не соответствует. Пожалуйста, попробуйте еще ​​раз."
+
+msgid "Theme Mode"
+msgstr "Режим темы"
+
+msgid "Theme Options"
+msgstr "Настройки темы"
+
+msgid "Theme Options UI"
+msgstr "Опции UI темы"
+
+msgid "Theme Options UI Builder"
+msgstr "Настройки темы UI Builder"
+
+msgid "Theme Options reset."
+msgstr "Сброс параметров темы."
+
+msgid "Theme Options updated."
+msgstr "Параметры темы обновлены"
+
+msgid "There are no reviews yet."
+msgstr "Нет отзывов."
+
+msgid "There was an error when reading this WXR file"
+msgstr "Ошибка во время чтения WXR файла"
+
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr "Этот WXR файл (версия %s) не поддерживается для импорта."
+
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr "Отсутствующая/неправильная версия WXR"
+
+msgid ""
+"This post is password protected. Enter the password to view the comments."
+msgstr "Эта запись защищена паролем. Введите пароль для просмотра комментариев."
+
+msgid "This product is currently out of stock and unavailable."
+msgstr "Этот товар сейчас в продаже и доступен."
+
+msgid "Thumbnail"
+msgstr "Изображение"
+
+msgid "Thumbnail + Text"
+msgstr "Изображение + текст"
+
+msgid "Thumbnail + Title"
+msgstr "Изображение + заголовок"
+
+msgid "Thumbnail + Title + Text"
+msgstr "Изображение + заголовок + текст"
+
+msgid "Thumbnail only"
+msgstr "Только изображение"
+
+msgid "Thumbnail size"
+msgstr "Размер превью"
+
+msgid "Title"
+msgstr "Заголовок"
+
+msgid "Title (optional):"
+msgstr "Заголовок (можно не указывать):"
+
+msgid "Title + Text"
+msgstr "Заголовок + текст"
+
+msgid "Title + Thumbnail + Text"
+msgstr "Заголовок + изображение + текст"
+
+msgid "Title:"
+msgstr "Заголовок:"
+
+msgid ""
+"To make it easier for you to edit and save the imported content, you may want "
+"to reassign the author of the imported item to an existing user of this site. "
+"For example, you may want to import all the entries as <code>admin</code>s "
+"entries."
+msgstr ""
+"Чтобы сделать это проще для вас, для редактирования и сохранения "
+"импортированных контент, вы можете переназначить автора импортированного "
+"элемента для существующего пользователя данного сайта."
+
+msgid "Top"
+msgstr "Верх"
+
+msgid "Top to bottom"
+msgstr "Сверху вниз"
+
+msgid "Topic: "
+msgstr "Тема:"
+
+msgid "Total"
+msgstr "Всего"
+
+msgid "Total:"
+msgstr "Всего:"
+
+msgid "Totals"
+msgstr "Всего"
+
+msgid "Turquoise"
+msgstr "Бирюзовый"
+
+msgid "Twitter Feed"
+msgstr "Фид твиттера"
+
+msgid "Twitter link"
+msgstr "Ссылка на Twitter"
+
+msgid "Type"
+msgstr "Тип"
+
+msgid "Typography"
+msgstr "Оформление шрифта"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "URL (Link)"
+msgstr "URL (ссылка)"
+
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/merchant "
+"has declined your transaction."
+msgstr ""
+"К сожалению, ваш заказ не может быть обработан, т.к. вам отказано в "
+"совершении данной транзакции."
+
+msgid "Unit Price"
+msgstr "Цена"
+
+msgid "Unpack the ZIP archive."
+msgstr "Распаковать ZIP архив"
+
+msgid "Unpacking the package&#8230;"
+msgstr "Распаковка&#8230;"
+
+msgid "Update %s"
+msgstr "Обновить %s"
+
+msgid "Update Brand"
+msgstr "Обновить бренд"
+
+msgid "Update Cart"
+msgstr "Обновить корзину"
+
+msgid "Update Category"
+msgstr "Обновить категорию"
+
+msgid "Update Options"
+msgstr "Обновить параметры"
+
+msgid "Update Tag"
+msgstr "Обновить тег"
+
+msgid "Update totals"
+msgstr "Обновить итоговую сумму"
+
+msgid "Upload"
+msgstr "Загрузить"
+
+msgid "Upload your Video in 3 formats: MP4, OGG and WEBM"
+msgstr "Загрузить видео в 3 форматах: MP4 , OGG и WebM"
+
+msgid "Upload/Add image"
+msgstr "Загрузить/добавить изображение"
+
+msgid "Usage"
+msgstr "Использование"
+
+msgid "Use"
+msgstr "Использовать"
+
+msgid "Use image"
+msgstr "Использовать изображение"
+
+msgid "Use the search box to find the product you are looking for."
+msgstr "Используйте окно поиска, чтобы найти товар, который вы ищете."
+
+msgid "User Secret"
+msgstr "Секретный код пользователя"
+
+msgid "User Token"
+msgstr "Знак пользователя"
+
+msgid "User account name"
+msgstr "Имя учетной записи пользователя"
+
+msgid "User name should not be empty."
+msgstr "Имя пользователя не должно быть пустым."
+
+msgid "Username"
+msgstr "Имя пользователя"
+
+msgid "Username already exists. Please try another one."
+msgstr "Имя пользователя уже существует. Пожалуйста, введите другое."
+
+msgid "Username or email"
+msgstr "Имя пользователя или e-mail"
+
+msgid "Username or email address"
+msgstr "Имя пользователя или e-mail"
+
+msgid "Username:"
+msgstr "Имя:"
+
+msgid "Value"
+msgstr "Значение"
+
+msgid "Vertical"
+msgstr "Вертикально"
+
+msgid "Vertical text centering"
+msgstr "Вертикальное центрирование текста"
+
+msgid "Very Poor"
+msgstr "Плохо"
+
+msgid "Video"
+msgstr "Видео"
+
+msgid "Video URL (mp4)"
+msgstr "URL видео (mp4)"
+
+msgid "Video URL (ogv)"
+msgstr "URL видео (ogv)"
+
+msgid "Video URL (webm)"
+msgstr "URL видео (webm)"
+
+msgid "Video is not supporting by your browser"
+msgstr "Видео не поддерживается вашим браузером"
+
+msgid "Video poster image"
+msgstr "Изображение видео плаката"
+
+msgid "View"
+msgstr "Посмотреть"
+
+msgid "View %s"
+msgstr "Смотреть %s"
+
+msgid "View Cart"
+msgstr "Посмотреть корзину"
+
+msgid "View Products"
+msgstr "Посмотреть товары"
+
+msgid "View Project"
+msgstr "Смотреть проект"
+
+msgid "View all products from %s"
+msgstr "Просмотр всех товаров от %s"
+
+msgid "View as:"
+msgstr "Просмотр в виде:"
+
+msgid "View more posts"
+msgstr "Посмотреть больше постов"
+
+msgid "View more products"
+msgstr "Посмотреть больше товаров"
+
+msgid ""
+"Visit <code>OptionTree->Documentation->Layouts Overview</code> to see a more "
+"in-depth description of what layouts are and how to use them."
+msgstr ""
+"Посетите <code>Дерево опций->Документация->Обзор макетов</code>чтобы увидеть "
+"более подробное описание."
+
+msgid "Warning!"
+msgstr "Внимание!"
+
+msgid "Website"
+msgstr "Сайт"
+
+msgid "What text use as a widget title. Leave blank if no title is needed."
+msgstr "Текст показываться как заголовок виджета."
+
+msgid "What to do when slide is clicked?"
+msgstr "Что делать когда слайд кликабелен?"
+
+msgid "What's a layout anyhow?"
+msgstr "Как расположить макет?"
+
+msgid "Widget title"
+msgstr "Заголовок виджета"
+
+msgid "Widget title:"
+msgstr "Заголовок виджета:"
+
+msgid "Wishlist"
+msgstr "Список желаний"
+
+msgid "Without Border"
+msgstr "Без границы"
+
+msgid "Without border"
+msgstr "Без границы"
+
+msgid "WordPress Repository"
+msgstr "Хранилище вордпресс"
+
+msgid "Wordpress DEMO Store. All Rights Reserved."
+msgstr "Все права защищены."
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "Yes, please"
+msgstr "Да, пожалуйста."
+
+msgid ""
+"You can access your account area to view your orders and change your password "
+"here: <a href=\"%s\">%s</a>."
+msgstr ""
+"Вы можете войти в свою учетную запись, чтобы просмотреть свои заказы, а также "
+"изменить пароль здесь: <a href=\"%s\">%s</a>."
+
+msgid ""
+"You can add a QR code image in sidebar to allow your users get quick access "
+"from their devices"
+msgstr "Вы можете вставить QR код изображения в боковой панели."
+
+msgid "You can't remove this! But you can edit the values."
+msgstr "Вы не можете удалить это! Но вы можете изменить значения."
+
+msgid "You cannot access this file"
+msgstr "У вас нет доступа к этому файлу"
+
+msgid "You do not have permission to view this forum."
+msgstr "Вы не имеете разрешения для просмотра этого форума."
+
+msgid "You may be interested in&hellip;"
+msgstr "Специальное предложение"
+
+msgid "You must be logged in to checkout."
+msgstr "Вы должны войти в аккаунт, чтобы продолжить оформление заказа."
+
+msgid "Your Account"
+msgstr "Ваш аккаунт"
+
+msgid "Your Order"
+msgstr "Ваш заказ"
+
+msgid "Your Rating"
+msgstr "Оцените товар"
+
+msgid "Your Review"
+msgstr "Оставьте отзыв"
+
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ожидает модерации."
+
+msgid "Your order"
+msgstr "Ваш заказ"
+
+msgid "Zero size file downloaded"
+msgstr "Файл с нулевым размером загружен"
+
+msgid "array"
+msgstr "массив"
+
+msgid "as a new user:"
+msgstr "как новый пользователь:"
+
+msgid "assign posts to an existing user:"
+msgstr "связать посты с существующим пользователем:"
+
+msgid "at"
+msgstr "на"
+
+msgid "boolean"
+msgstr "логический"
+
+msgid "dark"
+msgstr "темный"
+
+msgid "dark with border"
+msgstr "темный с границей"
+
+msgid "dark with white text"
+msgstr "темный со светлым текстом"
+
+msgid "default"
+msgstr "по умолчанию"
+
+msgid "disable"
+msgstr "отключить"
+
+msgid "edit"
+msgstr "редактировать"
+
+msgid "enable"
+msgstr "включить"
+
+msgid "fade"
+msgstr "сливаться"
+
+msgid "for"
+msgstr "на"
+
+msgid "in forum "
+msgstr "на форуме"
+
+msgid "in group forum "
+msgstr "в группе форуме"
+
+msgid "in reply to: "
+msgstr "в ответе на:"
+
+msgid "instead"
+msgstr "вместо"
+
+msgid "integer"
+msgstr "целое число"
+
+msgid "item"
+msgstr "товар"
+
+msgid "items"
+msgstr "ед."
+
+msgid "light"
+msgstr "светлый"
+
+msgid "light with black text"
+msgstr "светлый с темным текстом"
+
+msgid "optional"
+msgstr "не обязательный"
+
+msgid "or assign posts to an existing user:"
+msgstr "или связать посты с существующим пользователем:"
+
+msgid "or create new user with login name:"
+msgstr "или воздать нового пользователя:"
+
+msgid "required"
+msgstr "обязательно"
+
+msgid "string"
+msgstr "строка"
+
+msgid "successfully added to your shopping cart"
+msgstr "успешно добавлен в Вашу корзину"
+
+msgid "terms &amp; conditions"
+msgstr "условия &amp; правила"
+
+msgid "zoom"
+msgstr "увеличить"
+
+msgid "Share on:"
+msgstr "Поделиться в соцсетях:"
+
+msgid "Share on"
+msgstr "Поделиться в соцсетях"
+
+msgid "Edit title"
+msgstr "Редактировать заголовок"
+
+msgid "Free!"
+msgstr "Бесплатно"
+
+msgid "Ask an estimate of costs"
+msgstr "Запросить цену"
+
+msgid "Cart Subtotal"
+msgstr "Стоимость товара"
+
+msgid "Shipping and Handling"
+msgstr "Стоимость доставки"

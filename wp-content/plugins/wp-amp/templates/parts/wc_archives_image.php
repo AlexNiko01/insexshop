@@ -1,0 +1,1 @@
+<?php echo ( $this->options->get( 'wc_archives_image' ) ) ? $this->render_element( 'image', $this->featured_image ) : '' ?>
