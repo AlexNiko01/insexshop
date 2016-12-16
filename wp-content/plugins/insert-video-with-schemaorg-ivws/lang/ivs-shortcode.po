@@ -1,0 +1,185 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: IVS\n"
+"POT-Creation-Date: 2016-09-16 02:14+0300\n"
+"PO-Revision-Date: 2016-09-16 02:15+0300\n"
+"Last-Translator: Абрамович Артем | artabr.ru <artikus.sol@gmail.com>\n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.6\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;"
+"esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: translations.php:11
+#, fuzzy
+msgid "Add video this microdata"
+msgstr "Вставить видео с микроразметкой"
+
+#: translations.php:12
+#, fuzzy
+msgid "Add video"
+msgstr "Добавить видео"
+
+#: translations.php:13
+#, fuzzy
+msgid "ID video"
+msgstr "ID видео"
+
+#: translations.php:14
+#, fuzzy
+msgid "Add video ID. This is the last 11 characters in a link."
+msgstr "Укажите ID видео. Это последние 11 символов в ссылке."
+
+#: translations.php:15
+#, fuzzy
+msgid "Width player"
+msgstr "Ширина видеоплеера"
+
+#: translations.php:16
+#, fuzzy
+msgid "Specify the width of the window video player"
+msgstr "Укажите ширину видеоплеера"
+
+#: translations.php:17
+#, fuzzy
+msgid "Height player"
+msgstr "Высота видеоплеера"
+
+#: translations.php:18
+#, fuzzy
+msgid "Specify the height of the window video player"
+msgstr "Укажите высоту видеоплеера"
+
+#: translations.php:19
+#, fuzzy
+msgid "Alignment video"
+msgstr "Выравнивание видео"
+
+#: translations.php:20
+#, fuzzy
+msgid ""
+"Alignment on the page video player window: left, center, right on the edge."
+msgstr ""
+"Выравнивание видео на страницы: по центру, по левому краю, по правому краю."
+
+#: translations.php:21
+#, fuzzy
+msgid "Align center"
+msgstr "Выровнять по центру"
+
+#: translations.php:22
+#, fuzzy
+msgid "Align left"
+msgstr "Выровнять по левому краю"
+
+#: translations.php:23
+#, fuzzy
+msgid "Align right"
+msgstr "Выровнять по правому краю"
+
+#: translations.php:24
+#, fuzzy
+msgid "Add microdata"
+msgstr "Данные для микроразметки"
+
+#: translations.php:25
+#, fuzzy
+msgid "Url video"
+msgstr "Ссылка видео"
+
+#: translations.php:26
+#, fuzzy
+msgid "Add url video. eg https://www.youtube.com/watch?v=HPwH0yS1c44"
+msgstr ""
+"Ссылка на видео, например https://www.youtube.com/watch?v=HPwH0yS1c44"
+
+#: translations.php:27
+#, fuzzy
+msgid "Video title"
+msgstr "Заголовок"
+
+#: translations.php:28
+#, fuzzy
+msgid "Specify the video title"
+msgstr "Укажите название видео"
+
+#: translations.php:29
+#, fuzzy
+msgid "Description of video"
+msgstr "Описание видео"
+
+#: translations.php:30
+#, fuzzy
+msgid "Specify the video description of movie"
+msgstr "Укажите описание к видео. Это обязательный параметр"
+
+#: translations.php:31
+#, fuzzy
+msgid "Video duration"
+msgstr "Длительность"
+
+#: translations.php:32
+#, fuzzy
+msgid "Specify the duration of the video in ISO 8601 format"
+msgstr "Укажите длительность видео в формате ISO 8601"
+
+#: translations.php:33
+#, fuzzy
+msgid "Minutes"
+msgstr "Минуты"
+
+#: translations.php:34
+#, fuzzy
+msgid "Seconds"
+msgstr "Секунды"
+
+#: translations.php:35
+#, fuzzy
+msgid "Download date video"
+msgstr "Дата загрузки видео"
+
+#: translations.php:36
+#, fuzzy
+msgid ""
+"Move the cursor to select the date, and download video clips. The desired "
+"format will be installed automatically."
+msgstr ""
+"Установите курсор в поле даты и выберите дату загрузки видео. Нужный "
+"формат установиться автоматически."
+
+#: translations.php:37
+#, fuzzy
+msgid "Link to the thumbnail"
+msgstr "Ссылка на значок"
+
+#: translations.php:38
+#, fuzzy
+msgid "Enter a link to a thumbnail from the video."
+msgstr "Введите ссылку на значок из видео"
+
+#: translations.php:39
+#, fuzzy
+msgid "Width thumbnail"
+msgstr "Ширина значка"
+
+#: translations.php:40
+#, fuzzy
+msgid "Enter the width of a thumbnail from the video"
+msgstr "Введите ширину из видео"
+
+#: translations.php:41
+#, fuzzy
+msgid "Height thumbnail"
+msgstr "Высота значка"
+
+#: translations.php:42
+#, fuzzy
+msgid "Enter the height of a thumbnail from the video"
+msgstr "Введите высоту значка из видео"
