@@ -1,3 +1,13 @@
+/*
+ Theme Name:   legenda-child
+ Theme URI:    http://8theme.com/
+ Description:  Legenda Child Theme
+ Author:       8theme
+ Author URI:   http://8theme.com
+ Template:     legenda
+ Version:      0.0.1
+ Text Domain:  legenda-child
+*/
 .clearfix {
   *zoom: 1;
 }
@@ -13582,7 +13592,7 @@ a.etheme-popup {
   text-align: center;
 }
 .cbp-qtrotator blockquote footer:before {
-  content: '― ';
+  content: 'â€• ';
 }
 .cbp-qtrotator .cbp-qtcontent a.avatar-link {
   position: absolute;
@@ -16574,26 +16584,30 @@ img.mfp-img {
 .sblock{
   display: block;
 }
-.image_plus_1{
-  color: #65bbff !important;
-  font-size: 38px !important;
-  margin-top: 80px;
-}
 .yith-wfbt-submit-block{
-  margin-top: 80px;
+  margin-top: 10px;
 }
 .price_text{
-  color: #65bbff !important;
-  font-size: 20px !important;
+  font-size: 16px !important;
+  margin-bottom: 10px;
+  text-transform: none !important;
 }
 .price .amount{
-  font-size: 15px;
+  font-size: 18px;
 }
 .product-name{
-  font-size: 13px !important;
+  font-size: 12px !important;
+  text-transform: none !important;
+}
+.price-yth{
+  font-size: 12px !important;
+  text-transform: none !important;
 }
 .yith-wfbt-images .yith-wfbt-item{
   padding:0 !important;
+}
+.yith-wfbt-submit-button{
+  margin-bottom: 10px;
 }
 #content_tab_reviews{
   width:100%;
@@ -16618,3 +16632,6 @@ img.mfp-img {
   border:1px solid #65bbff;
 }
 .et-brand{width:250px;min-width:25%;float:left;}
+.hundreed{width: 100%;}
+.photosblock{float: left;width: 20%;min-width: 200px;}
+.headfive{text-align:center;min-height:50px;}

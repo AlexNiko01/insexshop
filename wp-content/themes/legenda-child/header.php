@@ -85,7 +85,7 @@
 					<div class="sidebar-widget">
 						<h6><?php _e('Add any widgets you want in Apperance->Widgets->"Hidden top panel area"', ETHEME_DOMAIN) ?></h6>
 					</div>
-				<?php endif; ?>	
+				<?php endif; ?>
 			</div>
 		</div>
 	<?php endif ?>
@@ -105,13 +105,13 @@
 											<li><a href="#">FR</a></li>
 										</ul>
 									</div>
-							<?php endif; ?>	
+							<?php endif; ?>
 						</div>
-						
+
 						<?php if (etheme_get_option('top_panel')): ?>
 							<div class="show-top-panel hidden-phone"></div>
 						<?php endif ?>
-						
+
 						<?php if (etheme_get_option('search_form')): ?>
 							<div class="search hide-input a-right">
 								<span data-toggle="modal" data-target="#searchModal" class="search-link">search</span>
@@ -151,7 +151,7 @@
 		<?php endif ?>
 
 		<header class="header header<?php echo $ht; ?>">
-			
+
 			<div class="container">
 				<div class="table-row">
 
@@ -160,7 +160,7 @@
 								<?php echo etheme_search(array()); ?>
     					</div>
     				<?php endif ?>
-                    
+
 					<div class="logo"><?php etheme_logo(); ?></div>
 
 					<?php /*if (etheme_get_option('search_form')): ?>
@@ -172,7 +172,7 @@
 
 		            <?php if(class_exists('Woocommerce') && !etheme_get_option('just_catalog') && etheme_get_option('cart_widget')): ?>
 	                    <?php etheme_top_cart(); ?>
-		            <?php endif ;?> 
+		            <?php endif ;?>
 					<div class="menu-icon hidden-desktop"><i class="icon-reorder"></i></div>
 				</div>
 			</div>
@@ -182,6 +182,7 @@
 			<div class="double-border">
 				<div class="container">
 					<div class="menu-wrapper menu-type<?php etheme_option('menu_type'); ?>">
+<!--                        --><?php //var_dump(get_template_directory());?>
 						<div class="logo-with-menu">
 							<?php etheme_logo(); ?>
 						</div>
