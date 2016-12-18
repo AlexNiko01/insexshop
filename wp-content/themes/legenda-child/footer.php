@@ -1,4 +1,4 @@
-	<?php $fd = etheme_get_option('footer_demo'); ?>	
+	<?php $fd = etheme_get_option('footer_demo'); ?>
 	<?php $ft = ''; $ft = apply_filters('custom_footer_filter',$ft); ?>
     <?php global $etheme_responsive; ?>
 
@@ -10,7 +10,7 @@
 	               		<?php //if($fd) etheme_footer_demo('prefooter'); ?>
 	                <?php else: ?>
 	                    <?php dynamic_sidebar( 'prefooter' ); ?>
-	                <?php endif; ?>   
+	                <?php endif; ?>
 				</div>
 			</div>
 		</div>
@@ -25,7 +25,7 @@
 	               		<?php if($fd) etheme_footer_demo('footer1'); ?>
 	                <?php else: ?>
 	                    <?php dynamic_sidebar( 'footer1' ); ?>
-	                <?php endif; ?>   
+	                <?php endif; ?>
 				</div>
 			</div>
 		</div>
@@ -37,7 +37,7 @@
                		<?php if($fd) etheme_footer_demo('footer2'); ?>
                 <?php else: ?>
                     <?php dynamic_sidebar( 'footer2' ); ?>
-                <?php endif; ?> 
+                <?php endif; ?>
 			</div>
 		</footer>
 	<?php endif; ?>

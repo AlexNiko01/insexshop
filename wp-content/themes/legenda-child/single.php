@@ -86,6 +86,9 @@ $postspage_id = get_option('page_for_posts');
                             <?php endif; ?>
 
                         </article>
+                        <?php if (function_exists('echo_crp')) {
+                            echo_crp();
+                        } ?>
                     </div>
 
                 <?php endwhile; else: ?>
@@ -107,6 +110,7 @@ $postspage_id = get_option('page_for_posts');
         </div>
 
     </div>
+
 </div>
 
 <?php

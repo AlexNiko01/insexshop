@@ -277,8 +277,8 @@ function sanitize_output($buffer) {
 ob_start("sanitize_output");*/
 
 // Remove default WooCommerce breadcrumbs and add Yoast ones instead
-remove_action('woocommerce_before_main_content', 'woocommerce_breadcrumb', 20, 0);
-add_action('woocommerce_before_main_content', 'my_yoast_breadcrumb', 20, 0);
+remove_action('woocommerce_before_main_content', 'woocommerce_breadcrumb', 20);
+add_action('woocommerce_before_main_content', 'my_yoast_breadcrumb', 20);
 if (!function_exists('my_yoast_breadcrumb')) {
     function my_yoast_breadcrumb()
     {
@@ -325,7 +325,8 @@ function thim_child_enqueue_styles()
     wp_dequeue_style('responsive');
     wp_enqueue_style('style-child', get_stylesheet_directory_uri() . '/style.css', null, null);
     wp_enqueue_style('responsive-child', get_stylesheet_directory_uri() . '/css/responsive.css', null, null);
-    wp_enqueue_script('owlcarousel', get_template_directory_uri().'/js/owl.carousel.min.js');
 }
 
 add_action('wp_enqueue_scripts', 'thim_child_enqueue_styles', 131);
+
+
